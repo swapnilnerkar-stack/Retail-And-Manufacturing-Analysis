@@ -31,13 +31,13 @@ Category Optimization: Consider bundling accessories with bike sales to improve 
 
 📁 Folder Structure
 
-AW project final new.pbix --> Power BI dashboard
+AW_PowerBi_File.pbix --> Power BI dashboard
 
-Adventure_works final.twbx --> Tableau dashboard
+AW_Tableau_File.twbx --> Tableau dashboard
 
-Adventure works project file.xlsx --> Excel Dashboard
+Adventure works Excelfile_v02.xlsb --> Excel Dashboard
 
-Project new.xlsx --> Cleaned dataset
+Adventure works Database File.sql --> AW Database File
 
 Adventure_works_SQLfile.sql --> SQL query scripts
 
@@ -45,5 +45,6 @@ Adventure_works_SQLfile.sql --> SQL query scripts
 
 Open .pbix file in Power BI Desktop
 Open .twbx file in Tableau
+Open .sql database file to import Database in your SQL Engine
 Use .sql file to run analysis on your preferred SQL engine
 Explore Excel dashboard via slicers and pivots
